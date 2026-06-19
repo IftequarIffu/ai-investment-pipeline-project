@@ -27,16 +27,16 @@ class InvestmentThesis(BaseModel):
 
     investment_rationale: str
 
-def generate_thesis():
+def generate_thesis(topic):
 
-    prompt = """
+    prompt = f"""
     You are a partner at an early-stage venture capital fund.
 
     Your task is to create an investment thesis for a startup sourcing and evaluation pipeline.
 
     The investment area is:
 
-    AI agents for SMBs
+    {topic}
 
     Requirements:
 

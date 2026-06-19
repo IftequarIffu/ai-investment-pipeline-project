@@ -27,6 +27,9 @@ def main():
 
     yc_list = source_yc_by_algolia_curl(args.topic)
 
+    print("Generating thesis...\n")
+    generate_thesis(args.topic)
+
     # Update team data
     print("Updating the team information...\n\n")
     for i in range(len(yc_list)):
@@ -35,8 +38,6 @@ def main():
         yc_list[i]["team"] = team
         break
 
-    print("Generating thesis...\n")
-    generate_thesis()
 
     file = open('outputs/thesis.json', 'r')
     thesis_json = json.load(file)
