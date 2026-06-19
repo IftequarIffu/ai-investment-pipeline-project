@@ -1,0 +1,77 @@
+{
+    "startup_name": "Structured AI",
+    "founder_backgrounds": [
+        {
+            "name": "Issy Greenslade",
+            "role": "Co-founder, COO",
+            "experience": "Oxford University graduate (Economics & Management). Prior experience in Investment Banking at Greenhill and Venture Capital at Future Planet Capital. Named to Forbes 30 Under 30 Europe 2026 in the AI category."
+        },
+        {
+            "name": "Brandon Abreu Smith",
+            "role": "Co-founder, CTO",
+            "experience": "Oxford University graduate (Physics). Authored papers for NeurIPS and ChromaDB (reviewed by Stanford's AI Lab), created the first open-source RAG chunking evaluation framework. Spent six years building production AI for engineering firms and was AI lead at Syska Hennessy Group. Named to Forbes 30 Under 30 Europe 2026 in the AI category."
+        },
+        {
+            "name": "Raymond Zhao",
+            "role": "Co-founder, CEO",
+            "experience": "Oxford University graduate (Maths & Stats). Built automation at Goldman Sachs and the London Stock Exchange. Implemented an AI system at a £1B VC that increased deal flow 20x. Initially pursued architecture and engineering, but was deterred by the extensive manual 'grunt work,' leading to his mission to free engineers from such tasks. Named to Forbes 30 Under 30 Europe 2026 in the AI category."
+        }
+    ],
+    "competitive_landscape": "Structured AI operates in the rapidly expanding AI in construction market, which is projected to grow significantly, reaching an estimated $4.5 billion by 2028 and $35.53 billion by 2034. The market is seeing a trend towards specialized, verticalized AI solutions rather than generic platforms. Structured AI differentiates itself by focusing specifically on AI agents for quality control (QA/QC) on technical documents and drawings in construction design engineering. Competitors include Procore, a dominant player in construction management software with broad project management AI; Togal.AI, specializing in automating the estimating process; ALICE Technologies, an AI-powered construction simulation platform for scheduling optimization; and Oracle Construction and Engineering Advisor for Safety, focused on safety prediction. Other AI tools/areas in the broader construction AI landscape include Doxel, Buildots, OpenSpace, SmartPM, and Versatile AI. Structured AI's key differentiators are its proprietary AI Vision Model, trained on thousands of engineering symbols, and its ability to perform automated, cross-trade QA/QC on multi-disciplinary drawings at dramatically faster speeds, contrasting with competitors' broader or different specialized focuses.",
+    "traction_signals": [
+        {
+            "signal_type": "Funding",
+            "details": "Structured AI has raised a total of $5 million, including an initial $500K Seed round in July 2025 and a recent $4.2 million seed round. Investors include FCVC, Y Combinator, 20VC, Cherry Ventures, Zero Prime Ventures, Transpose Platform, Sequoia Scout, and angel investors."
+        },
+        {
+            "signal_type": "Product-Market Fit Evidence",
+            "details": "Early traction includes the development of proprietary vision models trained on thousands of engineering symbols, allowing their AI agents to read and analyze plans with expert-level accuracy at significantly faster speeds. Their platform can check 100-page blueprints against 2,000 pages of building codes in minutes."
+        },
+        {
+            "signal_type": "Customer Validation",
+            "details": "Structured AI is used by multi-disciplinary design firms. A notable pilot program identified over 400 issues in a 1,000-page drawing set that was slated for construction. They have also partnered with Syska Hennessy Group, a prominent US MEP engineering firm, which is testing the platform and contributed as a seed investor."
+        },
+        {
+            "signal_type": "Revenue",
+            "details": "As of November 2025, Structured AI generated $440K in revenue."
+        },
+        {
+            "signal_type": "Industry Recognition",
+            "details": "The co-founders were named to the Forbes 30 Under 30 Europe 2026 list in the AI category. The company has been featured in the ACEC Research Institute's Firm of the Future report, listed in the AEC Magazine AI Directory, and recognized as one of BuiltWorlds' 40 AI-Driven AEC Solutions to Watch in 2026."
+        },
+        {
+            "signal_type": "Integration Capabilities",
+            "details": "The platform is designed for seamless integration with existing SMB tech stacks, including Revit, Microsoft Word, Excel, SharePoint, Google Drive, Autodesk Construction Cloud, Bluebeam, and Procore."
+        }
+    ],
+    "risks": [
+        {
+            "risk_category": "AI Accuracy and Reliability",
+            "description": "AI tools, particularly those based on generative AI, can produce inaccurate, misleading, or fabricated information with high confidence, leading to costly errors if not properly validated by human experts. This risk is particularly high in the construction industry where 'hallucinated specifications' or misinterpreted clauses can result in significant financial penalties, project delays, and legal liabilities. While Structured AI's CEO emphasizes that the platform is not intended to remove human decision-making, the potential for undetected AI errors remains a concern."
+        },
+        {
+            "risk_category": "Data Dependency and Bias",
+            "description": "The effectiveness and fairness of AI solutions heavily rely on the quality, completeness, and lack of bias in the training data. If the vast datasets used to train Structured AI's proprietary vision models contain biases or inaccuracies, these could be perpetuated in the QA/QC process, potentially leading to errors or overlooking specific issues in construction documents."
+        },
+        {
+            "risk_category": "Lack of Transparency and Traceability ('Black Box')",
+            "description": "Many advanced AI systems function as 'black boxes,' offering limited visibility into their decision-making processes. This lack of transparency can make it challenging to explain or defend AI-generated recommendations or findings in the event of disputes, legal challenges, or regulatory scrutiny within the highly regulated construction industry."
+        },
+        {
+            "risk_category": "Copyright and Intellectual Property Concerns",
+            "description": "AI models trained on extensive datasets, including copyrighted materials, may inadvertently reproduce protected content in their outputs. This poses a risk of copyright infringement for firms utilizing AI-generated designs or documentation, potentially leading to legal exposure and damages."
+        },
+        {
+            "risk_category": "Data Security and Governance",
+            "description": "AI systems require access to sensitive project information, including blueprints, cost estimates, and client specifications, making them attractive targets for cyberattacks. Without robust data access policies and security measures, there's a risk of exposing proprietary methods, client details, and competitive advantages. Structured AI acknowledges this risk and states its focus on AI security and compliance to protect workloads, applications, and models."
+        },
+        {
+            "risk_category": "Over-reliance and Skill Atrophy",
+            "description": "A potential risk is an over-reliance on AI tools by construction professionals, which could lead to a decline in fundamental technical skills and critical judgment. If professionals become overly dependent on AI to identify errors or interpret regulations, they may miss nuanced issues or lack the expertise to validate AI outputs independently, creating vulnerabilities when AI systems fail or produce questionable results."
+        },
+        {
+            "risk_category": "Integration Complexity and Adoption Challenges",
+            "description": "Despite Structured AI's focus on easy integration, the construction industry generally faces challenges with fragmented data streams and legacy systems, which can hinder the seamless integration and widespread adoption of new AI technologies."
+        }
+    ]
+}

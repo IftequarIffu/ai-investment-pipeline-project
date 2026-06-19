@@ -1,0 +1,33 @@
+{
+    "startup_name": "InspectMind AI",
+    "team_analysis": [
+        "The co-founders possess an exceptional blend of deep domain expertise in the construction industry (Aakash Prasad, 3rd generation professional) and elite technical proficiency in AI/ML (Shuangling Yin, ex-Airbnb, Google; Aakash Prasad, UC Berkeley EECS, Google research).",
+        "This combination is critical for building an effective autonomous agent in a specialized vertical."
+    ],
+    "product_analysis": [
+        "The product delivers demonstrable and significant ROI for SMBs by catching costly construction drawing issues with high accuracy, leading to substantial savings and reduced project delays.",
+        "Its focus on multi-discipline, PDF-native review addresses an acute and well-understood pain point."
+    ],
+    "market_analysis": [
+        "InspectMind AI targets a large and fragmented construction market with clear, acute pain points related to manual drawing review.",
+        "The documented traction indicates strong receptiveness among early adopters to AI-driven solutions for operational efficiency."
+    ],
+    "risks": [
+        "The AI is explicitly positioned as an assistant, not a human replacement, with inherent limitations and a company disclaimer of liability for missed issues or decisions made based on outputs.",
+        "The competitive landscape for AI construction review tools is becoming crowded, requiring continuous differentiation and innovation to maintain market leadership.",
+        "Integration challenges with the Architecture, Engineering, and Construction (AEC) industry's often fragmented, legacy tech stacks and lack of standardization could hinder deeper adoption."
+    ],
+    "team_score": 9,
+    "product_score": 9,
+    "market_score": 8,
+    "traction_score": 10,
+    "timing_score": 8,
+    "total_score": 9,
+    "recommendation": "TAKE_MEETING",
+    "rationale": "InspectMind AI demonstrates exceptional product-market fit with strong, quantifiable traction in a large and underserved SMB market. The founding team possesses a rare and powerful combination of deep domain expertise and top-tier AI technical skills, addressing an acute pain point with a product that delivers immediate and significant ROI.",
+    "key_things": [
+        "Clear strategy for sustained differentiation and competitive advantage amidst a growing number of rivals in the AI construction review space.",
+        "Demonstrated ability to expand product capabilities and integrate more seamlessly into complex AEC workflows beyond its current standalone PDF review.",
+        "A robust plan for navigating potential future regulatory complexities or evolving liability standards related to AI in critical industries like construction."
+    ]
+}

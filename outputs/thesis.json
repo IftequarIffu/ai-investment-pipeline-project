@@ -1,0 +1,107 @@
+{
+    "thesis_name": "Autonomous AI Agents for SMB Operational Efficiency",
+    "target_customers": [
+        "SMBs (5-250 employees) in service-based industries (e.g., marketing agencies, law firms, accounting firms, real estate agencies)",
+        "SMBs with repetitive, high-volume, data-intensive tasks",
+        "SMBs with clear operational bottlenecks that manual processes cannot scale",
+        "SMBs already adopting some form of digital tools and automation"
+    ],
+    "preferred_founder_traits": [
+        "Deep domain expertise in target SMB verticals or specific operational functions (e.g., finance, marketing, customer service)",
+        "Strong technical background with demonstrable experience in AI/ML, particularly in agentic architectures, NLP, or computer vision",
+        "Proven ability to build and ship user-friendly software products",
+        "Obsessive focus on customer pain points and a clear understanding of SMB budgets and sales cycles",
+        "Experience scaling an early-stage company or product",
+        "Scrappy, resilient, and adaptive to market feedback"
+    ],
+    "preferred_product_traits": [
+        "Delivers measurable and immediate ROI for SMBs (e.g., significant time savings, cost reduction, revenue increase)",
+        "Autonomous or semi-autonomous execution of complex, multi-step tasks rather than simple automation",
+        "Easy to integrate with existing SMB tech stacks (e.g., CRM, ERP, project management tools)",
+        "Intuitive user interface requiring minimal technical setup or training for non-technical users",
+        "Addresses an acute, well-understood pain point specific to the target SMB segment",
+        "Leverages proprietary data, models, or workflow orchestrations for defensibility",
+        "Scalable architecture capable of handling diverse SMB needs and data volumes",
+        "Robust error handling, auditability, and human-in-the-loop oversight where necessary"
+    ],
+    "preferred_market_traits": [
+        "Large and growing addressable market within SMBs with identified, persistent operational inefficiencies",
+        "Fragmented market with many potential customers, allowing for broad adoption",
+        "Clear and acute pain points that are currently solved inefficiently by manual labor or expensive consultants",
+        "High switching costs for existing inefficient solutions, making a superior AI agent highly sticky",
+        "Early adopters in the market are receptive to AI-driven solutions to gain competitive advantage",
+        "Favorable regulatory environment (if applicable) for data handling and automation"
+    ],
+    "negative_signals": [
+        "Generic 'AI for everything' approach without a specific problem or customer in mind",
+        "Product requires significant behavioral changes or complex setup from SMB users",
+        "Lack of clear, quantifiable ROI or value proposition for SMBs",
+        "Over-reliance on general-purpose LLMs without significant fine-tuning, proprietary data, or unique agentic design",
+        "Founders lack domain expertise in both AI and the target SMB industry",
+        "Solving a 'nice-to-have' problem rather than an acute, costly pain point",
+        "No clear path to data defensibility or proprietary technology",
+        "Market segment is too niche or already saturated with existing automation solutions",
+        "Complex pricing model or high upfront costs that deter price-sensitive SMBs"
+    ],
+    "team": {
+        "name": "Team",
+        "weight": 25,
+        "criteria": [
+            "Domain expertise in target SMB vertical",
+            "Strong technical proficiency in AI/ML and agentic systems",
+            "Prior startup experience or successful product development",
+            "Deep understanding of SMB sales and customer acquisition",
+            "Balanced skill set among co-founders (technical, product, business)",
+            "Resilience, adaptability, and clear vision"
+        ]
+    },
+    "product": {
+        "name": "Product",
+        "weight": 25,
+        "criteria": [
+            "Demonstrable, measurable ROI for SMBs",
+            "Ease of use and minimal setup for non-technical users",
+            "Seamless integration with existing SMB tools",
+            "Truly autonomous or semi-autonomous task execution",
+            "Addresses an acute, specific pain point",
+            "Scalability and robustness of the agentic architecture",
+            "Defensibility through proprietary data, models, or unique workflow orchestration"
+        ]
+    },
+    "market": {
+        "name": "Market",
+        "weight": 20,
+        "criteria": [
+            "Size and growth potential of the target SMB segment",
+            "Acuteness of the pain point being solved",
+            "Existing market inefficiencies or expensive manual solutions",
+            "Receptiveness of target SMBs to adopting AI-driven automation",
+            "Competitive landscape and potential for market leadership",
+            "Clear path to expanding within or across SMB verticals"
+        ]
+    },
+    "traction": {
+        "name": "Traction",
+        "weight": 15,
+        "criteria": [
+            "Early customer validation (pilots, LOIs, paying customers)",
+            "Strong engagement metrics and retention indicators (even if early)",
+            "Clear evidence of product-market fit in a specific niche",
+            "Positive customer feedback and testimonials",
+            "Scalable customer acquisition strategy for SMBs",
+            "Identifiable revenue model with clear path to profitability"
+        ]
+    },
+    "timing": {
+        "name": "Timing",
+        "weight": 15,
+        "criteria": [
+            "Maturity of underlying AI/LLM technologies to enable reliable agents",
+            "SMB readiness and increasing comfort with AI adoption",
+            "Cost-effectiveness of AI infrastructure enabling viable business models",
+            "Competitive window for establishing market leadership",
+            "Regulatory environment not posing immediate significant hurdles"
+        ]
+    },
+    "investment_rationale": "We believe that the convergence of advanced AI agentic capabilities and the growing operational demands of small and medium-sized businesses (SMBs) presents a generational opportunity. SMBs are an underserved market segment often lacking the resources for large-scale enterprise solutions but desperately needing efficiency gains to compete. AI agents that can autonomously handle repetitive, complex tasks with measurable ROI will become indispensable tools, freeing up human capital for higher-value work. We seek companies with deeply specialized AI expertise, acute understanding of SMB pain points, and product-led growth strategies to capture this massive market."
+}
