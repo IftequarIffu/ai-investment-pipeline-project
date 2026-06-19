@@ -1,0 +1,33 @@
+{
+    "startup_name": "Brickanta",
+    "team_analysis": [
+        "The founding team possesses exceptional domain expertise in AI/ML specifically applied to the construction and industrial sectors since 2018, aligning perfectly with the thesis's preference for deep domain and technical proficiency.",
+        "Both founders, Lucas Otterling (CEO) and Linus Bein Fahlander (GTM), demonstrate a balanced skillset and have received significant early recognition."
+    ],
+    "product_analysis": [
+        "Brickanta's agentic AI delivers quantifiable, immediate ROI for construction SMBs by automating complex pre-construction tasks like bid analysis and procurement, directly addressing acute pain points and reducing administrative overhead.",
+        "The product integrates with existing organizational data and focuses on truly autonomous, multi-step task execution."
+    ],
+    "market_analysis": [
+        "Brickanta targets the vast and historically inefficient construction market, which presents significant opportunities for AI-driven operational efficiency among SMBs.",
+        "The identified pain points are acute and currently solved by expensive manual labor, making the market highly receptive to a superior, sticky AI agent solution."
+    ],
+    "risks": [
+        "High initial implementation costs and complexity of integrating AI with legacy systems in a historically slow-adopting industry.",
+        "Potential liability issues and data security concerns associated with autonomous agentic AI accessing sensitive proprietary construction data.",
+        "The inherent uniqueness of construction projects may limit the generalizability and transferability of AI solutions, requiring significant adaptation."
+    ],
+    "team_score": 9,
+    "product_score": 9,
+    "market_score": 8,
+    "traction_score": 10,
+    "timing_score": 9,
+    "total_score": 9,
+    "recommendation": "TAKE_MEETING",
+    "rationale": "Brickanta presents an exceptionally strong alignment with our investment thesis. The founding team brings deep, specialized expertise in both AI and construction, addressing a massive and inefficient market with an agentic AI product that delivers clear, measurable ROI. Their impressive early traction, including significant funding, rapid customer adoption across multiple countries, and quantifiable impact on customer operations, demonstrates strong product-market fit and validates the timing for this solution in the construction sector.",
+    "key_things": [
+        "Clear demonstration of how Brickanta navigates and mitigates the unique liability and regulatory challenges associated with autonomous AI agents in critical construction workflows.",
+        "Evidence of a scalable integration and onboarding process that effectively overcomes the construction industry's \"digital debt\" and resistance to new technology, ensuring broad SMB adoption.",
+        "A robust strategy for long-term data defensibility and proprietary technology beyond early workflow orchestration, ensuring continued market leadership against potential competitors."
+    ]
+}
